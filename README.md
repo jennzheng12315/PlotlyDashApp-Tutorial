@@ -1,5 +1,5 @@
-# PlotlyDashApp-Tutorial
-Tutorial used for Plotly Dash App Workshop at WiCS Club Meeting
+# Plotly Dash App Tutorial
+Tutorial used for Plotly Dash App
 
 <p align="center">
   <img src="https://github.com/katelyn98/PlotlyDashApp-Tutorial/blob/main/PlotlyTutorial.gif" /> 
